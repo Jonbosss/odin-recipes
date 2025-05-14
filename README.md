@@ -1,1 +1,1 @@
-This is an HTML based competancy project where I will create a recipe website.
+This is an HTML based competency project where I will create a recipe website.
